@@ -49,7 +49,7 @@ export default function ThirdContainer() {
             </div>
             <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
               <div class="card" style={{width: "13.5rem"}}>
-                <img src="images/HTML.png" class="card-img-top" alt="..." />
+                <img src="images/html.png" class="card-img-top" alt="..." />
                 <div class="card-body">
                   <h5 class="card-title fs-1">HTML</h5>
                 </div>
