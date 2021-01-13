@@ -3,7 +3,7 @@ export default function TopContainer() {
     <>
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary sticky-top z4">
         <div className="container-fluid">
-          <a className="navbar-brand fs-1" href="#">
+          <a className="navbar-brand fs-2" href="#">
             Aadityasiva
           </a>
           <button
