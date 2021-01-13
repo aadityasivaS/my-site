@@ -8,7 +8,9 @@ export default function FifthContainer() {
               <h1 className="display-1 comfortaa-font">Contact Me</h1>
             </div>
             <div className="col-12 col-lg-6 text-center text-lg-start">
-              <button type="button" className="btn btn-outline-light btn-lg fs-2">
+              <button type="button" className="btn btn-outline-light btn-lg fs-2" onClick={() => {
+                window.location.href = "mailto:me@aadityasiva.cf";
+              }}>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="32"
