@@ -1,6 +1,7 @@
 import '../components/firebase-config';
 import Head from "next/head";
 import "../styles/globals.scss";
+import 'bootstrap-icons/font/bootstrap-icons.css';
 export default function MyApp({ Component, pageProps }) {
   return (
     <>

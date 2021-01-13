@@ -8,7 +8,7 @@ export default function SecondContainer() {
           style={{ margin: "70px auto" }}
         >
           <div className="col">
-            <div className="row" data-aos="fade-down-left">
+            <div className="row">
               <div className="col-lg-6 col-md-12">
                 <img
                   src="/images/Person.png"
