@@ -7,7 +7,7 @@ export default function ThirdContainer() {
             My Skills
           </h1>
           <div className="row">
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/NextJS.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -15,7 +15,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/React.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -23,7 +23,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Flutter.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -31,7 +31,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Typescript.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -39,7 +39,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Javascript.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -47,7 +47,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/html.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -55,7 +55,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/css.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -63,7 +63,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Nodejs.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -71,7 +71,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Express.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -79,7 +79,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Bootstrap.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -87,7 +87,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Bulma.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -95,7 +95,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Svelte.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -103,7 +103,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Sapper.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -111,7 +111,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Unity.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -119,7 +119,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Unreal.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -127,7 +127,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Arduino.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -135,7 +135,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/NPM.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -143,7 +143,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/GIT.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -151,7 +151,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Firebase.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -159,7 +159,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/MongoDB.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -167,7 +167,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Electron.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -175,7 +175,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/C.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -183,7 +183,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/Java.png" class="card-img-top" alt="..." />
                 <div class="card-body">
@@ -191,7 +191,7 @@ export default function ThirdContainer() {
                 </div>
               </div>
             </div>
-            <div className="col d-flex justify-content-center m-2" data-aos="flip-up">
+            <div className="col d-flex justify-content-center m-2">
               <div class="card" style={{width: "13.5rem"}}>
                 <img src="images/MySQL.png" class="card-img-top" alt="..." />
                 <div class="card-body">
