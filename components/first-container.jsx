@@ -48,11 +48,7 @@ export default function TopContainer() {
       </nav>
       <div className="bg-primary nodge">
         <div className="top-container text-center overflow-hidden">
-          <div
-            className="row d-flex align-items-center"
-            data-aos="fade-down-right"
-            data-aos-offset="200"
-          >
+          <div className="row d-flex align-items-center">
             <div className="col-12 col-lg-6 text-lg-start text-center">
               <h1 className="display-1 comfortaa-font">I'm Aadityasiva</h1>
               <h2 className="fs-1">A cross platform developer</h2>
