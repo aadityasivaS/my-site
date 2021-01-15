@@ -1,3 +1,4 @@
 User-Agent: *
 Allow: /
+Sitemap: http://aadityasiva.cf/sitemap.xml
 
